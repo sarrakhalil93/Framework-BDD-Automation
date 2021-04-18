@@ -1,0 +1,16 @@
+com\selenium\e2eTests\moduleBuzz\stepDefinitions\ModuleBuzzStepDefinition.class
+com\selenium\e2eTests\utils\AbstractPage.class
+com\selenium\e2eTests\utils\ChromeDriverManager.class
+com\selenium\e2eTests\utils\Setup.class
+com\selenium\e2eTests\utils\DriverManager.class
+com\selenium\e2eTests\utils\DriverManagerFactory$1.class
+com\selenium\e2eTests\utils\DriverType.class
+com\selenium\e2eTests\utils\FirefoxDriverManager.class
+com\selenium\e2eTests\authentication\pageObjects\AuthenticationPage.class
+com\selenium\e2eTests\utils\InternetExplorerDriver.class
+com\selenium\e2eTests\authentication\stepDefinitions\AuthenticationStepDefinition.class
+com\selenium\e2eTests\TestRunner.class
+com\selenium\e2eTests\utils\CommonMethods.class
+com\selenium\e2eTests\utils\DriverManagerFactory.class
+com\selenium\e2eTests\moduleBuzz\pageObjects\ModuleBuzzPage.class
+com\selenium\e2eTests\utils\EdgeDriverManager.class

@@ -1,5 +1,7 @@
 package com.selenium.e2eTests.utils;
 
+import java.util.concurrent.TimeUnit;
+
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
@@ -21,6 +23,7 @@ public class Setup {
 	public static void setup() {
 		driverManager = DriverManagerFactory.getManager(DriverType.CHROME);
 		driver = driverManager.getDriver();
+		//driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	}
 
 	@After
